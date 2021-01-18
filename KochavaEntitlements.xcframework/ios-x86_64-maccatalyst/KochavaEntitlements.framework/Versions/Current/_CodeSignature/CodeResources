@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		6GvJIIKwU0/6/CJzdpH0o+lpuxI=
+		Y3A3qwECAcsMh3FHfKLeSce92X4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,28 +15,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q9weQofcqstuUQJw0mGwd+pBJMMbj5Z0SbJiDhTypqg=
+			kAzpiHEkZ1SVziJ5gJQ5cSqP+2xsTUZTjI5ogKb4cUs=
 			</data>
 		</dict>
 		<key>Headers/KVAEntitlementsProduct.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AXHc5H3Gvzjklv0xYoyjDUyK04PA8jfDYIE3yMDGtJQ=
+			LmUU5rT3fD6eEtsYrWrDqeWldqqvk900m4ITeQXWIko=
 			</data>
 		</dict>
 		<key>Headers/KVAReceipt.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yp04U1ml382IKIHM3lwfmwZtzyzRjWfx4UJp0PRUmus=
+			UBtNJLYJ9NBebIDMk5kaZMcNcB1yTtupZ/jfZ3GXgHA=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqhQL+x5HjXi/AGARu3eDh6+DmnpvxsBQYpZobPaCOY=
+			vzzDWXYihSW6KQJIR3W+c/Nl0Ecr94K+kpZEMC2/muY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mbh4Ic3nLiJio0EILlXDYv39ZOr+TGx4j6VGo42Ixt8=
+			rE88LftfdGGpsrdbJsB5zDYT2AAtk3jjIvnhzGJOFIY=
 			</data>
 		</dict>
 	</dict>

@@ -6,23 +6,23 @@
 	<dict>
 		<key>Headers/KVAEntitlements.h</key>
 		<data>
-		2uPOqqyu4lgWYMdZimCRjoHJW3c=
+		O7PUL3JI/U8cDmCuN9WlPQxzs2A=
 		</data>
 		<key>Headers/KVAEntitlementsProduct.h</key>
 		<data>
-		68Ga7hb+gp+8cQcSbwBUF/6U9gA=
+		ST88/ehEWCYdTJD/RQJ27rn7tik=
 		</data>
 		<key>Headers/KVAReceipt.h</key>
 		<data>
-		hUUHsYt8vOEUU30XF9jmGJZbT1s=
+		4FS7MGwGLDmMeES1HcVL8f9v6uQ=
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
-		J3h6yNd090ov14lJqtjGPwc8Q9o=
+		W4CiGneMUx7mG8C/6/XPVB85fFQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8FqaAp1Uk89oD/ZdhAjb3zUB1tM=
+		RvtQNB6pogw977l8CsuuAchd6j4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,44 +35,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2uPOqqyu4lgWYMdZimCRjoHJW3c=
+			O7PUL3JI/U8cDmCuN9WlPQxzs2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			q9weQofcqstuUQJw0mGwd+pBJMMbj5Z0SbJiDhTypqg=
+			kAzpiHEkZ1SVziJ5gJQ5cSqP+2xsTUZTjI5ogKb4cUs=
 			</data>
 		</dict>
 		<key>Headers/KVAEntitlementsProduct.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			68Ga7hb+gp+8cQcSbwBUF/6U9gA=
+			ST88/ehEWCYdTJD/RQJ27rn7tik=
 			</data>
 			<key>hash2</key>
 			<data>
-			AXHc5H3Gvzjklv0xYoyjDUyK04PA8jfDYIE3yMDGtJQ=
+			LmUU5rT3fD6eEtsYrWrDqeWldqqvk900m4ITeQXWIko=
 			</data>
 		</dict>
 		<key>Headers/KVAReceipt.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hUUHsYt8vOEUU30XF9jmGJZbT1s=
+			4FS7MGwGLDmMeES1HcVL8f9v6uQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yp04U1ml382IKIHM3lwfmwZtzyzRjWfx4UJp0PRUmus=
+			UBtNJLYJ9NBebIDMk5kaZMcNcB1yTtupZ/jfZ3GXgHA=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J3h6yNd090ov14lJqtjGPwc8Q9o=
+			W4CiGneMUx7mG8C/6/XPVB85fFQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MqhQL+x5HjXi/AGARu3eDh6+DmnpvxsBQYpZobPaCOY=
+			vzzDWXYihSW6KQJIR3W+c/Nl0Ecr94K+kpZEMC2/muY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
