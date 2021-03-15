@@ -4,39 +4,15 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/KVAEntitlements.h</key>
+		<key>Resources/Info.plist</key>
 		<data>
-		O7PUL3JI/U8cDmCuN9WlPQxzs2A=
-		</data>
-		<key>Headers/KVAEntitlementsProduct.h</key>
-		<data>
-		ST88/ehEWCYdTJD/RQJ27rn7tik=
-		</data>
-		<key>Headers/KVAReceipt.h</key>
-		<data>
-		4FS7MGwGLDmMeES1HcVL8f9v6uQ=
-		</data>
-		<key>Headers/KochavaEntitlements.h</key>
-		<data>
-		W4CiGneMUx7mG8C/6/XPVB85fFQ=
-		</data>
-		<key>Info.plist</key>
-		<data>
-		hf5KZhAmSrWw0dFObYZoNrpf/F8=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		7dzU2bGp9crdCAdeJ5M3bleeBQA=
+		KkG2SvZfUHEJrwqQb9eGgc7hits=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/KVAEntitlements.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O7PUL3JI/U8cDmCuN9WlPQxzs2A=
-			</data>
 			<key>hash2</key>
 			<data>
 			kAzpiHEkZ1SVziJ5gJQ5cSqP+2xsTUZTjI5ogKb4cUs=
@@ -44,10 +20,6 @@
 		</dict>
 		<key>Headers/KVAEntitlementsProduct.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ST88/ehEWCYdTJD/RQJ27rn7tik=
-			</data>
 			<key>hash2</key>
 			<data>
 			LmUU5rT3fD6eEtsYrWrDqeWldqqvk900m4ITeQXWIko=
@@ -55,10 +27,6 @@
 		</dict>
 		<key>Headers/KVAReceipt.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4FS7MGwGLDmMeES1HcVL8f9v6uQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			UBtNJLYJ9NBebIDMk5kaZMcNcB1yTtupZ/jfZ3GXgHA=
@@ -66,10 +34,6 @@
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W4CiGneMUx7mG8C/6/XPVB85fFQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			vzzDWXYihSW6KQJIR3W+c/Nl0Ecr94K+kpZEMC2/muY=
@@ -77,35 +41,38 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7dzU2bGp9crdCAdeJ5M3bleeBQA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Xakmy4fsB2UxZQVLy26nMaVLhPiglNeXFvQtxaMqR30=
 			</data>
 		</dict>
+		<key>Resources/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ea7vzHV2ssxqtiqkFW/Qc/g93r7tgU3T9ytC/xH3PTA=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^.*</key>
+		<key>^Resources/</key>
 		<true/>
-		<key>^.*\.lproj/</key>
+		<key>^Resources/.*\.lproj/</key>
 		<dict>
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
 			<real>1000</real>
 		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Base\.lproj/</key>
+		<key>^Resources/Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
 			<real>1010</real>
@@ -127,27 +94,15 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
 		<key>^.*</key>
 		<true/>
-		<key>^.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^.*\.lproj/locversion.plist$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>1100</real>
-		</dict>
-		<key>^Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
@@ -161,6 +116,37 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
