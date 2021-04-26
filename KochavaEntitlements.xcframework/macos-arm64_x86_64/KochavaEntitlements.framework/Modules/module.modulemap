@@ -1,6 +1,0 @@
-framework module KochavaEntitlements {
-  umbrella header "KochavaEntitlements.h"
-
-  export *
-  module * { export * }
-}
