@@ -26,6 +26,43 @@
 
 
 
+#pragma mark - CLASS
+
+
+
+@class KVAReceipt;
+
+
+
+#pragma mark - PROTOCOL
+
+
+
+@protocol KVAEntitlementsReceiptReporter <NSObject>
+
+
+
+/*!
+ @method - reportReceipt:
+ 
+ @brief Reports a receipt.
+ */
+- (void)reportReceipt:(nonnull KVAReceipt *)receipt NS_SWIFT_NAME(reportReceipt(_:));
+
+
+
+@end
+
+
+
+@protocol KVAEntitlementsReceiptReporterProvider <NSObject>
+
+@property (strong, nonatomic, nonnull, readonly) id<KVAEntitlementsReceiptReporter> reporting;
+
+@end
+
+
+
 #pragma mark - INTERFACE
 
 
@@ -50,21 +87,21 @@
 /*!
  @method + report
  
- @brief A method which reports a receipt.
+ @brief A method which reports the current receipt.
  */
 + (void)report NS_SWIFT_NAME(report());
 
 
 
 /*!
-@method + reportWithPriceDecimalNumber:currencyString:
+ @method + reportWithPriceDecimalNumber:currencyString:
 
-@brief A method which reports a receipt, along with an associated transaction's details.
+ @brief A method which reports a receipt, along with an associated transaction's details.
  
  @param priceDecimalNumber The price of an associated transaction.  Optional.
  
  @param currencyString The currency code of an associated transaction.  Optional.
-*/
+ */
 + (void)reportWithPriceDecimalNumber:(nullable NSDecimalNumber *)priceDecimalNumber currencyString:(nullable NSString *)currencyString NS_SWIFT_NAME(report(withPriceDecimalNumber:currencyString:));
 
 

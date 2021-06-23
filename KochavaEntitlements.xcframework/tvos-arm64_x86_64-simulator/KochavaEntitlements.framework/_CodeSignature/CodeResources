@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KVAEntitlements.h</key>
 		<data>
-		O7PUL3JI/U8cDmCuN9WlPQxzs2A=
+		lgnl/VQsTBsA3mQEy29rA+mw3Hc=
 		</data>
 		<key>Headers/KVAEntitlementsProduct.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/KVAReceipt.h</key>
 		<data>
-		4FS7MGwGLDmMeES1HcVL8f9v6uQ=
+		t8z6v0pzvrLN0cgrO5A0xej/GtA=
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cWIFaxunQdc8wiEGpT45mWRkNQQ=
+		ZRjzN+ZYnyeqvumhy314/R3NNTM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,11 +35,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O7PUL3JI/U8cDmCuN9WlPQxzs2A=
+			lgnl/VQsTBsA3mQEy29rA+mw3Hc=
 			</data>
 			<key>hash2</key>
 			<data>
-			kAzpiHEkZ1SVziJ5gJQ5cSqP+2xsTUZTjI5ogKb4cUs=
+			U690fOfxra/8kN52Qcx4LBtFoZQuVt0e6XJD7C2wUkE=
 			</data>
 		</dict>
 		<key>Headers/KVAEntitlementsProduct.h</key>
@@ -57,11 +57,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4FS7MGwGLDmMeES1HcVL8f9v6uQ=
+			t8z6v0pzvrLN0cgrO5A0xej/GtA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UBtNJLYJ9NBebIDMk5kaZMcNcB1yTtupZ/jfZ3GXgHA=
+			HI1ubuuhxEjNxyQf+7cG3+ykVQf+BxcKXeo9q736dCE=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>

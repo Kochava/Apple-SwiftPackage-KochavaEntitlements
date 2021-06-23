@@ -108,10 +108,10 @@
 
 
 /*!
-@property startedBool
+ @property startedBool
 
-@brief A boolean indicating if the instance has been started.
-*/
+ @brief A boolean indicating if the instance has been started.
+ */
 @property (readonly) BOOL startedBool;
 
 
@@ -130,14 +130,14 @@
 
 
 /*!
-@method - unregisterIdentity(withNameString:)
+ @method - unregisterIdentity(withNameString:)
 
-@brief Unregisters a previously registered identity.
+ @brief Unregisters a previously registered identity.
 
-@discussion It is safe to use this method with a nameString which may ultimately not be registered.  No warning will be generated.
+ @discussion It is safe to use this method with a nameString which may ultimately not be registered.  No warning will be generated.
  
-@param nameString The name of the type of identifier.
-*/
+ @param nameString The name of the type of identifier.
+ */
 - (void)unregisterIdentityWithNameString:(nonnull NSString *)nameString NS_SWIFT_NAME(unregisterIdentity(withNameString:));
 
 
@@ -149,10 +149,11 @@
  
  @discussion  By calling the KVAEntitlements start method, you have completed the basic integration with the KochavaEntitlements SDK.  The call to the configuration method should be located in the logic of your application where things first start up, such as your App Delegate's application:didFinishLaunchingWithOptions: method.
 
+ Swift example:
  @code
- [KVAEntitlements.shared start];
+ KVAEntitlements.shared.start()
  @endcode
-*/
+ */
 - (void)start;
 
 
@@ -165,6 +166,58 @@
  @discussion This is similar to allowing an instance of entitlements deallocate, but it can also be used on the shared instance.  It will additionally signal certain sub-systems to invalidate themselves, which can result in a more assured and immediate halt.  The scope of this invalidation is not absolute.  Certain sub-systems will continue to run for a period of time until they may gracefully complete.  When using this method with the shared instance, you are guaranteed to be re-defaulted a new instance the next time it is referenced, and you may immediately move forward to re-configure it.
  */
 - (void)invalidate;
+
+
+
+/*!
+ @method - configureWith:context:
+ 
+ @brief Configures (updates) the instance from another object.
+ 
+ @param withObject An object from which to update the instance.  This is expected to be a JSON dictionary, or alternatively a native instance.
+ 
+ @param context The context.
+ 
+ @discussion This method can be used to make special configurations to the instance.  This method is equivalent to the support provided by KVAConfigureWithObjectProtocol;  however, it is formalized with a dispatch to the Kochava SDK's globalSerial queue and a log message.
+ */
+- (void)configureWith:(nullable id)withObject context:(nullable KVAContext *)context NS_SWIFT_NAME(configure(with:context:));
+
+
+
+@end
+
+
+
+#pragma mark - feature Reporting
+
+
+
+#ifdef KOCHAVA_FRAMEWORK
+#import <KochavaEntitlements/KVAReceipt.h>
+#else
+#import "KVAReceipt.h"  // for KVAEntitlementsReceiptReporterProvider.
+#endif
+
+
+
+@protocol KVAEntitlementsReceiptReporterProvider;
+
+
+
+#if TARGET_OS_TV
+@interface KVAEntitlements (Reporting_Public) <KVAEntitlementsReceiptReporterProvider>
+#else
+@interface KVAEntitlements (Reporting_Public) <KVAEntitlementsReceiptReporterProvider>
+#endif
+
+
+
+/*!
+ @property reporting
+ 
+ @brief An instance of class KVAEntitlementsReporting which conforms to protocol KVAEntitlementsReceiptReporterProvider.
+ */
+@property (strong, nonatomic, nonnull, readonly) NSObject<KVAEntitlementsReceiptReporter> *reporting;
 
 
 
