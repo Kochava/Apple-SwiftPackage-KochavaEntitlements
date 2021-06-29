@@ -17,10 +17,12 @@
 
 
 
+#pragma mark System
 #if TARGET_OS_TV
 #import <JavaScriptCore/JavaScriptCore.h>
 #endif
 
+#pragma mark KochavaCore
 #ifdef KOCHAVA_FRAMEWORK
 #import <KochavaCore/KochavaCore.h>
 #else
@@ -28,6 +30,13 @@
 #import "KVAConfigureWithObjectProtocol.h"
 #import "KVAFromObjectProtocol.h"
 #import "KVASharedPropertyProvider.h"
+#endif
+
+#pragma mark KochavaEntitlements
+#ifdef KOCHAVA_FRAMEWORK
+#import <KochavaEntitlements/KochavaEntitlements.h>
+#else
+#import "KVAReceipt.h"  // for KVAEntitlementsReceiptReporterProvider.
 #endif
 
 
@@ -189,14 +198,6 @@
 
 
 #pragma mark - feature Reporting
-
-
-
-#ifdef KOCHAVA_FRAMEWORK
-#import <KochavaEntitlements/KVAReceipt.h>
-#else
-#import "KVAReceipt.h"  // for KVAEntitlementsReceiptReporterProvider.
-#endif
 
 
 

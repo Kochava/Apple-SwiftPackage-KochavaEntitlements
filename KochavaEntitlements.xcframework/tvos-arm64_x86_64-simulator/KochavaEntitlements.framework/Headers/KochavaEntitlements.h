@@ -13,17 +13,28 @@
 
 
 
+#pragma mark - DEFINE
+
+
+
+#define KOCHAVA_FRAMEWORK
+
+
+
 #pragma mark - IMPORT
 
 
 
+#pragma mark System
 #import <Foundation/Foundation.h>
 
+#pragma mark KochavaCore
 #import <KochavaCore/KochavaCore.h>
 
+#pragma mark KochavaEntitlements
+#import <KochavaEntitlements/KVAReceipt.h>
 #import <KochavaEntitlements/KVAEntitlements.h>
 #import <KochavaEntitlements/KVAEntitlementsProduct.h>
-#import <KochavaEntitlements/KVAReceipt.h>
 
 
 
