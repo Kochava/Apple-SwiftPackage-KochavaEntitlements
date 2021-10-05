@@ -48,7 +48,8 @@
  
  @brief Reports a receipt.
  */
-- (void)reportReceipt:(nonnull KVAReceipt *)receipt NS_SWIFT_NAME(reportReceipt(_:));
+- (void)reportReceipt:(nonnull KVAReceipt *)receipt
+    NS_SWIFT_NAME(reportReceipt(_:));
 
 
 
@@ -90,7 +91,8 @@
  
  @brief A method which reports the current receipt.
  */
-+ (void)report NS_SWIFT_NAME(report());
++ (void)report
+    NS_SWIFT_NAME(report());
 
 
 
@@ -103,7 +105,10 @@
  
  @param currencyString The currency code of an associated transaction.  Optional.
  */
-+ (void)reportWithPriceDecimalNumber:(nullable NSDecimalNumber *)priceDecimalNumber currencyString:(nullable NSString *)currencyString NS_SWIFT_NAME(report(withPriceDecimalNumber:currencyString:));
++ (void)reportWithPriceDecimalNumber:
+    (nullable NSDecimalNumber *)priceDecimalNumber
+    currencyString: (nullable NSString *)currencyString
+    NS_SWIFT_NAME(report(withPriceDecimalNumber:currencyString:));
 
 
 

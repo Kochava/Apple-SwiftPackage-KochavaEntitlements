@@ -88,8 +88,12 @@
 @protocol KVAEntitlementsGeneralJSExport <JSExport>
 @property (class, readonly, strong, nonnull) KVAEntitlements *shared;
 @property (readonly) BOOL startedBool;
-- (void)registerIdentityWithNameString:(nonnull NSString *)nameString valueString:(nonnull NSString *)valueString NS_SWIFT_NAME(registerIdentity(withNameString:valueString:));
-- (void)unregisterIdentityWithNameString:(nonnull NSString *)nameString NS_SWIFT_NAME(unregisterIdentity(withNameString:));
+- (void)registerIdentityWithNameString:
+    (nonnull NSString *)nameString
+    valueString: (nonnull NSString *)valueString
+    NS_SWIFT_NAME(registerIdentity(withNameString:valueString:));
+- (void)unregisterIdentityWithNameString:(nonnull NSString *)nameString
+    NS_SWIFT_NAME(unregisterIdentity(withNameString:));
 - (void)start;
 - (void)invalidate;
 @end
@@ -134,7 +138,10 @@
  
  @param valueString The id value.
  */
-- (void)registerIdentityWithNameString:(nonnull NSString *)nameString valueString:(nonnull NSString *)valueString NS_SWIFT_NAME(registerIdentity(withNameString:valueString:));
+- (void)registerIdentityWithNameString:
+    (nonnull NSString *)nameString
+    valueString: (nonnull NSString *)valueString
+    NS_SWIFT_NAME(registerIdentity(withNameString:valueString:));
 
 
 
@@ -147,7 +154,8 @@
  
  @param nameString The name of the type of identifier.
  */
-- (void)unregisterIdentityWithNameString:(nonnull NSString *)nameString NS_SWIFT_NAME(unregisterIdentity(withNameString:));
+- (void)unregisterIdentityWithNameString:(nonnull NSString *)nameString
+    NS_SWIFT_NAME(unregisterIdentity(withNameString:));
 
 
 
@@ -189,7 +197,10 @@
  
  @discussion This method can be used to make special configurations to the instance.  This method is equivalent to the support provided by KVAConfigureWithObjectProtocol;  however, it is formalized with a dispatch to the Kochava SDK's globalSerial queue and a log message.
  */
-- (void)configureWith:(nullable id)withObject context:(nullable KVAContext *)context NS_SWIFT_NAME(configure(with:context:));
+- (void)configureWith:
+    (nullable id)withObject
+    context: (nullable KVAContext *)context
+    NS_SWIFT_NAME(configure(with:context:));
 
 
 
