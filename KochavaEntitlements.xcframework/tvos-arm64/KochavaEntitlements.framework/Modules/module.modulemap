@@ -4,3 +4,8 @@ framework module KochavaEntitlements {
   export *
   module * { export * }
 }
+
+module KochavaEntitlements.Swift {
+    header "KochavaEntitlements-Swift.h"
+    requires objc
+}

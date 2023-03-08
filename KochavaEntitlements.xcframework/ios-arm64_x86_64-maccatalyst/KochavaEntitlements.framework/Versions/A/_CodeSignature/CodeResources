@@ -6,51 +6,79 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		CifC4skEB4CbfMIXEDLSwoOW5MM=
+		xkoSyoTVdGTVLPVpati/b6r4Xzw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAEntitlements.h</key>
+		<key>Headers/KochavaEntitlements-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			URZXctR6mveS1vewQJjWybzNlz32m1T/fqh0T6Pq5aU=
-			</data>
-		</dict>
-		<key>Headers/KVAEntitlementsProduct.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GLiKa1Vsd7hV32LHNXBvQPTj8lgwgZoXUwa65feoHBw=
-			</data>
-		</dict>
-		<key>Headers/KVAReceipt.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EYTyTfyDe5ywCln9Ng6TZZCDrfyAJm86NuujiuJy2uQ=
+			uTjMmnsjKQzZ8Wlov6ZdbX5UR9Qv3cJkIdzD13KBDA4=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQ9zFElCfBoFIQPtdoqodfrl/rP/VSxgChR1IZMy8Jc=
+			M8gOspRplxYUwLkgrX+tUKtX/TP7l0XCCn21ljMI1d0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/th2F8Uk7mMxnmMK1BH7NCZ6tHpicHq+rMAMNx/mypQ=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lSE0eD++OhpnLvJ9Bom8SC4HJaAyuRKPKZbk3adMVU=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hdjHgCCuqqb3WOPDZaPsFSE3k52++X+nGBaTtPW10MM=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mg8iWwcZFxowP6jqA46ktj5kIovyWN25pMnwlYRyQXI=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qEpVLqLGabFJ2pdI7F8ZpfmvoenPIuUZ73RjcEBTVZE=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EROT2m9lqguRdRXk6GkYy/fjjeZoK/czOq2ZU5DjeJ8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xakmy4fsB2UxZQVLy26nMaVLhPiglNeXFvQtxaMqR30=
+			ubXiftCruRdaF10L9a6YYeB4vmaO9xu5/me7Ojrk72c=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDy8gp9CZk2QRmiPnDDxgqDbTbP3RZJXAA/CIPvdwRk=
+			v0mZyZANyfw3DKjTNMxBi0i6c21iVlCMSddvfpPDpb4=
 			</data>
 		</dict>
 	</dict>

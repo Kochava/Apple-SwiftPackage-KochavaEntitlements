@@ -6,51 +6,79 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		5B79hNmPJXeZL/sEtSivnXro+cI=
+		tTgoXFbnlmiCvDw9ISoHKwdOG2Y=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAEntitlements.h</key>
+		<key>Headers/KochavaEntitlements-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			URZXctR6mveS1vewQJjWybzNlz32m1T/fqh0T6Pq5aU=
-			</data>
-		</dict>
-		<key>Headers/KVAEntitlementsProduct.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GLiKa1Vsd7hV32LHNXBvQPTj8lgwgZoXUwa65feoHBw=
-			</data>
-		</dict>
-		<key>Headers/KVAReceipt.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EYTyTfyDe5ywCln9Ng6TZZCDrfyAJm86NuujiuJy2uQ=
+			uTjMmnsjKQzZ8Wlov6ZdbX5UR9Qv3cJkIdzD13KBDA4=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQ9zFElCfBoFIQPtdoqodfrl/rP/VSxgChR1IZMy8Jc=
+			M8gOspRplxYUwLkgrX+tUKtX/TP7l0XCCn21ljMI1d0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XTcPWdlgo6nFGJBSAQvL8K7xJzOzEuTONM9uvDNVRNI=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0n3OvIXTaNIR6fS4f92pR4/kz9ST5pSS8D+gVBQvBqI=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0VR+1SB+2oA+UzgWU+RPtK/P8IeDzc6h5gaQBTFkZak=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iQXusFpx00clOUxNLNYSyMXWw1lmrXu0mN9oyOt+klM=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TcxVxju7QkJNTbfr+x+E7yz6t/WAMM9Y8wjc0aRxub0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ga+EXSKjom9wqMqjgrFuwZ0X1C+90cfcwG8zZ1jl/Tw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xakmy4fsB2UxZQVLy26nMaVLhPiglNeXFvQtxaMqR30=
+			ubXiftCruRdaF10L9a6YYeB4vmaO9xu5/me7Ojrk72c=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c9BNgIHauqmaQm0oG5NqCghIroYm5kH5SoG05PzkHco=
+			dznhrCLm0UJkLLNPC8M/Qc5OoKIBpZJ31WjT9IX9gUo=
 			</data>
 		</dict>
 	</dict>

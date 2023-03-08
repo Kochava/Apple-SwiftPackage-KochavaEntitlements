@@ -4,86 +4,191 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/KVAEntitlements.h</key>
+		<key>Headers/KochavaEntitlements-Swift.h</key>
 		<data>
-		3pNBBDAIsThVHkUUhGluGbr9wsc=
-		</data>
-		<key>Headers/KVAEntitlementsProduct.h</key>
-		<data>
-		eKI4kDO26otKQe9T6U/2OPznbk4=
-		</data>
-		<key>Headers/KVAReceipt.h</key>
-		<data>
-		yd13wSHxNLYaqw+pPl/HOaIxDQc=
+		Zhh5SJYQv2M2yahGz+J1sHea8+U=
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
-		UY8IPyDobyD0TfxHFjbZDejGpvc=
+		4lCUrAzivMRU0xmDtBWeWqLopCM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cAfodMwUJx7bmZ2EAqE74noXBwA=
+		fxWPz7R8mz8hK5c/cCjlEGXwkms=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
+		<data>
+		zvIjUPL+Ml57Hicqrm6aDAZ7RBE=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		MO08wvaz+uYY6Mka7eg+OWZqMMI=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
+		<data>
+		RGlOvMmXpo25mezlTF32PPt8XzU=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
+		<data>
+		r8GQoWIEZtsjUYGNEXsnFda+JPM=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		bZOlzRFuEFNDNY41CV6fDQuNBgg=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
+		<data>
+		XcjewV+lodx5kODWbZAkqOx9ReA=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
+		<data>
+		HWMs8EXa3CHx3CIAuw1CiZFpjW4=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		vlnNUOTqZKwVdNxJX+6QSuyrKtM=
+		</data>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
+		<data>
+		Ig2CTtA6KdFWU2Lwad0zGpLwGKg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7dzU2bGp9crdCAdeJ5M3bleeBQA=
+		hw21u6B+vW4dWZIeZaTseW/hDXI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAEntitlements.h</key>
+		<key>Headers/KochavaEntitlements-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3pNBBDAIsThVHkUUhGluGbr9wsc=
+			Zhh5SJYQv2M2yahGz+J1sHea8+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			URZXctR6mveS1vewQJjWybzNlz32m1T/fqh0T6Pq5aU=
-			</data>
-		</dict>
-		<key>Headers/KVAEntitlementsProduct.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eKI4kDO26otKQe9T6U/2OPznbk4=
-			</data>
-			<key>hash2</key>
-			<data>
-			GLiKa1Vsd7hV32LHNXBvQPTj8lgwgZoXUwa65feoHBw=
-			</data>
-		</dict>
-		<key>Headers/KVAReceipt.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yd13wSHxNLYaqw+pPl/HOaIxDQc=
-			</data>
-			<key>hash2</key>
-			<data>
-			EYTyTfyDe5ywCln9Ng6TZZCDrfyAJm86NuujiuJy2uQ=
+			EQPuDSQ5v8e2GlRybsRyR056Bk8scyMvXzuDf2hhCGQ=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UY8IPyDobyD0TfxHFjbZDejGpvc=
+			4lCUrAzivMRU0xmDtBWeWqLopCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dQ9zFElCfBoFIQPtdoqodfrl/rP/VSxgChR1IZMy8Jc=
+			M8gOspRplxYUwLkgrX+tUKtX/TP7l0XCCn21ljMI1d0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zvIjUPL+Ml57Hicqrm6aDAZ7RBE=
+			</data>
+			<key>hash2</key>
+			<data>
+			k6jbeE2TABywMfk3vJknvyZLICGK6+NYUyoeEb5KTBQ=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MO08wvaz+uYY6Mka7eg+OWZqMMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			R1sl8N1wUwQ3vGPJYIGBrJrV4tuy2Nn5M3K+vsbkzCc=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RGlOvMmXpo25mezlTF32PPt8XzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			6Z+EJ4rPzhwn3RkCnItCuHoNkWVieqCf9yWxscjfoUY=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r8GQoWIEZtsjUYGNEXsnFda+JPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GPPwugh5rtNSS1flFQQnn3oJfpiGD4XxHfpjHXs5pHs=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bZOlzRFuEFNDNY41CV6fDQuNBgg=
+			</data>
+			<key>hash2</key>
+			<data>
+			kzEN6pHCwkJesaY300yMsuaYXEZqUTTuauP8lQzW0nE=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XcjewV+lodx5kODWbZAkqOx9ReA=
+			</data>
+			<key>hash2</key>
+			<data>
+			CseQ9YwYDiPDzjOZ2vUtuJPR/8xZfUJ9IdsdRR0u1H0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HWMs8EXa3CHx3CIAuw1CiZFpjW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			33xaFSyu3O/J3wfudlv9+YXxhFuVMWC/gk8370DB/EI=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vlnNUOTqZKwVdNxJX+6QSuyrKtM=
+			</data>
+			<key>hash2</key>
+			<data>
+			xRs18XsXkmL8mdnK0lpXi2WYrwdvtDSN7ztCOkllqg0=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ig2CTtA6KdFWU2Lwad0zGpLwGKg=
+			</data>
+			<key>hash2</key>
+			<data>
+			yemy1ShJuVvC6HWkFDxX/MDZpZbfhCxxcTZmEODMqDY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7dzU2bGp9crdCAdeJ5M3bleeBQA=
+			hw21u6B+vW4dWZIeZaTseW/hDXI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xakmy4fsB2UxZQVLy26nMaVLhPiglNeXFvQtxaMqR30=
+			ubXiftCruRdaF10L9a6YYeB4vmaO9xu5/me7Ojrk72c=
 			</data>
 		</dict>
 	</dict>

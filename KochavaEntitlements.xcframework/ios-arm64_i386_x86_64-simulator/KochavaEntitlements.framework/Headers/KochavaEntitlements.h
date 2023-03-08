@@ -31,11 +31,6 @@
 #pragma mark KochavaCore
 @import KochavaCore;
 
-#pragma mark KochavaEntitlements
-#import <KochavaEntitlements/KVAReceipt.h>
-#import <KochavaEntitlements/KVAEntitlements.h>
-#import <KochavaEntitlements/KVAEntitlementsProduct.h>
-
 
 
 #pragma mark - EXPORT
