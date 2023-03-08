@@ -3,7 +3,7 @@
 //  KochavaEntitlements
 //
 //  Created by John Bushnell on 6/15/20.
-//  Copyright © 2019 - 2021 Kochava, Inc.  All rights reserved.
+//  Copyright © 2020 - 2022 Kochava, Inc.  All rights reserved.
 //
 
 
@@ -29,7 +29,7 @@
 #import <Foundation/Foundation.h>
 
 #pragma mark KochavaCore
-#import <KochavaCore/KochavaCore.h>
+@import KochavaCore;
 
 #pragma mark KochavaEntitlements
 #import <KochavaEntitlements/KVAReceipt.h>

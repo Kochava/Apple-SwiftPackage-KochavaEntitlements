@@ -3,7 +3,7 @@
 //  KochavaEntitlements
 //
 //  Created by John Bushnell on 12/11/19.
-//  Copyright © 2020 - 2021 Kochava, Inc.  All rights reserved.
+//  Copyright © 2019 - 2022 Kochava, Inc.  All rights reserved.
 //
 
 
@@ -23,14 +23,7 @@
 #endif
 
 #pragma mark KochavaCore
-#ifdef KOCHAVA_FRAMEWORK
-#import <KochavaCore/KochavaCore.h>
-#else
-#import "KVAAsForContextObjectProtocol.h"
-#import "KVAConfigureWithObjectProtocol.h"
-#import "KVAFromObjectProtocol.h"
-#import "KVASharedPropertyProvider.h"
-#endif
+@import KochavaCore;
 
 #pragma mark KochavaEntitlements
 #ifdef KOCHAVA_FRAMEWORK
@@ -66,11 +59,7 @@
  
  You do not create instances of the KVAEntitlements class.  Instead, you start a provided shared instance using the designated configuration instance method start(withParametersDictionary:delegate:).
  
- From there, the entitlements instance proceeds to initialize immediately and perform its various tasks.  This is typically done during the earliest phases of the host’s life-cycle, so that installation attribution can be quickly established and post-install events may immediately begin to be queued.
- 
- @author Kochava, Inc.
- 
- @copyright 2020 - 2021 Kochava, Inc.
+ From there, the entitlements instance proceeds to initialize immediately and perform its various tasks.  This is typically done during the earliest phases of the host’s lifecycle, so that installation attribution can be quickly established and post-install events may immediately begin to be queued.
  */
 @interface KVAEntitlements : NSObject
 
@@ -102,9 +91,9 @@
 
 
 #if TARGET_OS_TV
-@interface KVAEntitlements (General_Public) <KVAAsForContextObjectProtocol, KVAConfigureWithObjectProtocol, KVAFromObjectProtocol, KVASharedPropertyProvider, KVAEntitlementsGeneralJSExport>
+@interface KVAEntitlements (General_Public) <KVAAsForContextProtocol, KVAConfigureWithProtocol, KVAFromProtocol, KVASharedPropertyProvider, KVAEntitlementsGeneralJSExport>
 #else
-@interface KVAEntitlements (General_Public) <KVAAsForContextObjectProtocol, KVAConfigureWithObjectProtocol, KVAFromObjectProtocol, KVASharedPropertyProvider>
+@interface KVAEntitlements (General_Public) <KVAAsForContextProtocol, KVAConfigureWithProtocol, KVAFromProtocol, KVASharedPropertyProvider>
 #endif
 
 
@@ -117,6 +106,11 @@
  @discussion This is the preferred way of using a entitlements.  To complete the integration you must call func start.
  */
 @property (class, readonly, strong, nonnull) KVAEntitlements *shared;
+
+
+
+// See var shared.
+@property (class, readonly, strong, nullable) KVAEntitlements *shared_optional;
 
 
 
@@ -166,7 +160,7 @@
  
  @discussion  By calling the KVAEntitlements start method, you have completed the basic integration with the KochavaEntitlements SDK.  The call to the configuration method should be located in the logic of your application where things first start up, such as your App Delegate's application:didFinishLaunchingWithOptions: method.
 
- Swift example:
+ Example:
  @code
  KVAEntitlements.shared.start()
  @endcode
@@ -195,12 +189,49 @@
  
  @param context The context.
  
- @discussion This method can be used to make special configurations to the instance.  This method is equivalent to the support provided by KVAConfigureWithObjectProtocol;  however, it is formalized with a dispatch to the Kochava SDK's globalSerial queue and a log message.
+ @discussion This method can be used to make special configurations to the instance.  This method is equivalent to the support provided by KVAConfigureWithProtocol;  however, it is formalized with a dispatch to the Kochava SDK's globalSerial queue and a log message.
  */
 - (void)configureWith:
     (nullable id)withObject
     context: (nullable KVAContext *)context
     NS_SWIFT_NAME(configure(with:context:));
+
+
+
+@end
+
+
+
+#pragma mark - feature Networking
+
+
+
+@class KVANetworking;
+
+
+
+#if TARGET_OS_TV
+@protocol KVAEntitlementsNetworkingJSExport <JSExport>
+@property (strong, nonatomic, nonnull, readonly) KVANetworking *networking;
+@end
+#endif
+
+
+
+#if TARGET_OS_TV
+@interface KVAEntitlements (Networking_Public) <KVAEntitlementsNetworkingJSExport>
+#else
+@interface KVAEntitlements (Networking_Public)
+#endif
+
+
+
+/*!
+ @property networking
+ 
+ @brief An instance of class KVANetworking.
+ */
+@property (strong, nonatomic, nonnull, readonly) KVANetworking *networking;
 
 
 
@@ -229,7 +260,7 @@
  
  @brief An instance of class KVAEntitlementsReporting which conforms to protocol KVAEntitlementsReceiptReporterProvider.
  */
-@property (strong, nonatomic, nonnull, readonly) NSObject<KVAEntitlementsReceiptReporter> *reporting;
+@property (strong, nonatomic, nonnull, readonly) id<KVAEntitlementsReceiptReporter> reporting;
 
 
 

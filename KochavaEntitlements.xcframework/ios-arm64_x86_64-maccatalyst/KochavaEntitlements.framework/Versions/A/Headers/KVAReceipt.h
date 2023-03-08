@@ -3,7 +3,7 @@
 //  KochavaEntitlements
 //
 //  Created by John Bushnell on 12/11/19.
-//  Copyright © 2020 - 2021 Kochava, Inc. All rights reserved.
+//  Copyright © 2019 - 2022 Kochava, Inc. All rights reserved.
 //
 
 
@@ -18,12 +18,7 @@
 
 
 #pragma mark KochavaCore
-#ifdef KOCHAVA_FRAMEWORK
-#import <KochavaCore/KochavaCore.h>
-#else
-#import "KVAAsForContextObjectProtocol.h"
-#import "KVAFromObjectProtocol.h"
-#endif
+@import KochavaCore;
 
 
 
@@ -73,16 +68,12 @@
  @class KVAReceipt
  
  @brief A push notifications token.
- 
- @author John Bushnell
- 
- @copyright 2017 - 2021 Kochava, Inc.
  */
-@interface KVAReceipt : NSObject <KVAAsForContextObjectProtocol, KVAFromObjectProtocol>
+@interface KVAReceipt : NSObject <KVAAsForContextProtocol, KVAFromProtocol>
 
 
 
-#pragma mark - CLASS GENERAL
+#pragma mark - 🔢 Creating a Receipt and then Reporting (Convenience)
 
 
 
