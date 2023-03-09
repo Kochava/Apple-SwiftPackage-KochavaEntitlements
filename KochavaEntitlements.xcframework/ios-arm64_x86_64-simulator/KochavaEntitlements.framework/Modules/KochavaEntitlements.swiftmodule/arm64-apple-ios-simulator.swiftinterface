@@ -1,0 +1,152 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios12.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name KochavaEntitlements
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import JavaScriptCore
+import KochavaCore
+@_exported import KochavaEntitlements
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+extension KochavaEntitlements.KVAEntitlements : JavaScriptCore.JSExport {
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAEntitlements) final public class KVAEntitlements : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAConfigureWithProtocol, KochavaCore.KVAFromProtocol, KochavaCore.KVAFromWithInitializedObjectProtocol, KochavaCore.KVAMutable, KochavaCore.KVASharedPropertyProvider, KochavaEntitlements.KVAEntitlementsReceiptReporterProvider, KochavaCore.KVAInvalidatable, KochavaCore.KVAInvalidatableWithOptions, KochavaCore.KVAStartable, KochavaCore.KVAStartableWithOptions, KochavaCore.KVAStoppable, KochavaCore.KVAStoppableWithOptions {
+  @objc public static var shared: KochavaEntitlements.KVAEntitlements {
+    @objc get
+  }
+  @objc public static var shared_optional: KochavaEntitlements.KVAEntitlements? {
+    @objc get
+  }
+  @objc public static var sharedInstance: Swift.AnyObject {
+    @objc get
+  }
+  @objc override convenience dynamic public init()
+  @objc(initWithStorageIdentifier:) required public init(storageIdentifier: KochavaCore.KVANetworking.StorageIdentifier?)
+  @objc deinit
+  public static func kva_from(_ object: Any?) -> Self?
+  public static func kva_from(_ object: Any?, initializedObject: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  @objc(configureWith:context:) final public func configure(with object: Any?, context: KochavaCore.KVAContext?)
+  @objc final public func kva_configure(with object: Any?, context: KochavaCore.KVAContext?)
+  @available(*, deprecated, renamed: "general.registerIdentity(name:identifier:)", message: "Convenience wrapper function deprecated.  Use Swift func general.registerIdentity(name:identifier:) instead.  If in Objective-C then use [KVAEntitlements.shared.general registerIdentityWithName:identifier:]")
+  @objc(registerIdentityWithNameString:valueString:) final public func registerIdentity(withNameString nameString: Swift.String, valueString: Swift.String)
+  @available(*, deprecated, renamed: "general.unregisterIdentity(name:)", message: "Convenience wrapper function deprecated.  Use Swift func general.unregisterIdentity(name:) instead.  If in Objective-C then use [KVAEntitlements.shared.general unregisterIdentityWithName:]")
+  @objc(unregisterIdentityWithNameString:) final public func unregisterIdentity(withNameString nameString: Swift.String)
+  @objc final public func start()
+  @objc final public func start(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
+  @objc final public func stop()
+  @objc final public func stop(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
+  @objc final public func invalidate()
+  @objc final public func invalidate(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
+  @objc override final public var description: Swift.String {
+    @objc get
+  }
+  @objc final public var config: KochavaEntitlements.KVAEntitlementsConfig {
+    @objc get
+  }
+  @objc final public var general: KochavaEntitlements.KVAEntitlementsGeneral {
+    @objc get
+  }
+  @objc final public var networking: KochavaCore.KVANetworking {
+    @objc get
+  }
+  @objc final public var reporting: KochavaEntitlements.KVAEntitlementsReporting {
+    @objc get
+  }
+  @objc final public var receiptReporter: KochavaEntitlements.KVAEntitlementsReceiptReporter {
+    @objc get
+  }
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc public static var sharedStorageIdentifier: KochavaCore.KVANetworking.StorageIdentifier? {
+    @objc get
+    @objc set(sharedStorageIdentifier)
+  }
+  @objc final public var startedBool: Swift.Bool {
+    @objc get
+  }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAEntitlementsConfig) final public class KVAEntitlementsConfig : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAConfigureWithProtocol, KochavaCore.KVAFromProtocol, KochavaCore.KVAFromWithInitializedObjectProtocol, KochavaCore.KVAInvalidatable, KochavaCore.KVAKeyable, KochavaCore.KVAMutable, KochavaCore.KVAStartable {
+  public static func kva_from(_ object: Any?) -> Self?
+  public static func kva_from(_ object: Any?, initializedObject: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  final public func key(forContext context: KochavaCore.KVAContext?) -> Swift.AnyHashable?
+  final public func kva_configure(with object: Any?, context: KochavaCore.KVAContext?)
+  final public func start()
+  final public func invalidate()
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAEntitlementsGeneral) final public class KVAEntitlementsGeneral : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAConfigureWithProtocol, KochavaCore.KVAFromProtocol, KochavaCore.KVAFromWithInitializedObjectProtocol, KochavaCore.KVAInvalidatable, KochavaCore.KVAKeyable, KochavaCore.KVAMutable, KochavaCore.KVAStartable {
+  @objc deinit
+  public static func kva_from(_ object: Any?) -> Self?
+  public static func kva_from(_ object: Any?, initializedObject: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  final public func key(forContext context: KochavaCore.KVAContext?) -> Swift.AnyHashable?
+  final public func kva_configure(with object: Any?, context: KochavaCore.KVAContext?)
+  @objc(registerIdentityWithName:identifier:) final public func registerIdentity(name: KochavaEntitlements.KVAEntitlementsGeneral.IdentityName, identifier: KochavaEntitlements.KVAEntitlementsGeneral.IdentityIdentifier)
+  @objc(unregisterIdentityWithName:) final public func unregisterIdentity(name: KochavaEntitlements.KVAEntitlementsGeneral.IdentityName)
+  final public func start()
+  final public func invalidate()
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  public typealias IdentityName = Swift.String
+  public typealias IdentityIdentifier = Swift.String
+  final public let instanceCreatedDate: Foundation.Date
+  public static let startSequenceDidCompleteNotificationName: Foundation.Notification.Name
+}
+@_inheritsConvenienceInitializers @objc(KVAEntitlementsProduct) final public class KVAEntitlementsProduct : ObjectiveC.NSObject, KochavaCore.KVASharedPropertyProvider {
+  @objc public static let shared: KochavaCore.KVAProduct
+  public static var sharedInstance: Swift.AnyObject {
+    get
+  }
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAEntitlementsReporting) final public class KVAEntitlementsReporting : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAConfigureWithProtocol, KochavaEntitlements.KVAEntitlementsReceiptReporter, KochavaEntitlements.KVAEntitlementsReceiptReporterProvider, KochavaCore.KVAFromProtocol, KochavaCore.KVAInvalidatable, KochavaCore.KVAKeyable, KochavaCore.KVAMutable, KochavaCore.KVAStartable {
+  public static func kva_from(_ object: Any?) -> Self?
+  public static func kva_from(_ object: Any?, initializedObject: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  final public func key(forContext context: KochavaCore.KVAContext?) -> Swift.AnyHashable?
+  final public func kva_configure(with object: Any?, context: KochavaCore.KVAContext?)
+  final public func start()
+  final public func invalidate()
+  @objc final public func reportReceipt(_ receipt: KochavaEntitlements.KVAReceipt)
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc final public var receiptReporter: KochavaEntitlements.KVAEntitlementsReceiptReporter {
+    @objc get
+  }
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAReceipt) final public class KVAReceipt : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAFromProtocol {
+  @objc public static func report()
+  @objc(reportWithPriceDecimalNumber:currencyString:) public static func report(priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?)
+  @available(*, deprecated, renamed: "report(priceDecimalNumber:currencyString:)", message: "Modern Objective-C-style method deprecated.  Use Swift func report(priceDecimalNumber:currencyString:) instead.")
+  public static func report(withPriceDecimalNumber priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?)
+  @objc(reportWithAppStoreReceiptData:priceDecimalNumber:currencyString:) public static func report(appStoreReceiptData: Foundation.Data?, priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?)
+  @available(*, deprecated, renamed: "report(appStoreReceiptData:priceDecimalNumber:currencyString:)", message: "Modern Objective-C-style method deprecated.  Use Swift func report(appStoreReceiptData:priceDecimalNumber:currencyString:) instead.")
+  public static func report(withAppStoreReceiptData appStoreReceiptData: Foundation.Data?, priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?)
+  @objc(reportWithAppStoreReceiptData:priceDecimalNumber:currencyString:reporter:) public static func report(appStoreReceiptData: Foundation.Data?, priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?, reporter: KochavaEntitlements.KVAEntitlementsReceiptReporterProvider?)
+  @available(*, deprecated, renamed: "report(appStoreReceiptData:priceDecimalNumber:currencyString:reporter:)", message: "Modern Objective-C-style method deprecated.  Use Swift func report(appStoreReceiptData:priceDecimalNumber:currencyString:reporter:) instead.")
+  public static func report(withAppStoreReceiptData appStoreReceiptData: Foundation.Data?, priceDecimalNumber: Foundation.NSDecimalNumber?, currencyString: Swift.String?, reporter: KochavaEntitlements.KVAEntitlementsReceiptReporterProvider?)
+  public static func kva_from(_ object: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc deinit
+}
+@objc public protocol KVAEntitlementsReceiptReporter {
+  @objc func reportReceipt(_ receipt: KochavaEntitlements.KVAReceipt)
+}
+@objc public protocol KVAEntitlementsReceiptReporterProvider {
+  @objc var receiptReporter: KochavaEntitlements.KVAEntitlementsReceiptReporter { get }
+}

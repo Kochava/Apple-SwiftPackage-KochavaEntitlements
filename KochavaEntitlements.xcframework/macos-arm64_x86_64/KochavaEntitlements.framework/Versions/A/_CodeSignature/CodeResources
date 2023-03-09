@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		bOOpex2KrMPbN8Px9s2f7b9M0Ic=
+		2+1z1EaIjnFGrDqvSgdqOioMEc4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,70 +15,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uTjMmnsjKQzZ8Wlov6ZdbX5UR9Qv3cJkIdzD13KBDA4=
+			hIyp4+pxP+5bJtTHMkOheCb6FlxIbAWsqIXWXF4wg9U=
 			</data>
 		</dict>
 		<key>Headers/KochavaEntitlements.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M8gOspRplxYUwLkgrX+tUKtX/TP7l0XCCn21ljMI1d0=
+			1S2WVVvIWzvLyN4/keesDlr1hv1AEyYmVPgSG3vwz4M=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X6hVXQP4kbaEJ0Xsop868wL4q7Q3gR1KtFETl6hXNP8=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C3SN/gqBUuQBi9FbAHeMeoLWNEN5CkF0ID3F4UbctG8=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTcPWdlgo6nFGJBSAQvL8K7xJzOzEuTONM9uvDNVRNI=
+			9lMknPj9ONO0fA93VWeWebqYgvBA3s5NO6UWiVWwcFA=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0n3OvIXTaNIR6fS4f92pR4/kz9ST5pSS8D+gVBQvBqI=
+			C3SN/gqBUuQBi9FbAHeMeoLWNEN5CkF0ID3F4UbctG8=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VR+1SB+2oA+UzgWU+RPtK/P8IeDzc6h5gaQBTFkZak=
+			RyzouYZTGcM5JTMhSgYpEzxmNOFiICS/XzE4w3/BwZU=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X6hVXQP4kbaEJ0Xsop868wL4q7Q3gR1KtFETl6hXNP8=
+			</data>
+		</dict>
+		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GMkv5L++d/j9xBmFLTBtXiOOtIzClmkrl36DML6GB6Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQXusFpx00clOUxNLNYSyMXWw1lmrXu0mN9oyOt+klM=
+			iLEUNYx2BHot69NfeSuOJ6hKRBZih3ejQU/Wqs+bucA=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcxVxju7QkJNTbfr+x+E7yz6t/WAMM9Y8wjc0aRxub0=
+			GMkv5L++d/j9xBmFLTBtXiOOtIzClmkrl36DML6GB6Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ga+EXSKjom9wqMqjgrFuwZ0X1C+90cfcwG8zZ1jl/Tw=
+			DqwigJKbx22aIexUzxSqi9nGUkyFAaK0YZtwZWeO24U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubXiftCruRdaF10L9a6YYeB4vmaO9xu5/me7Ojrk72c=
+			pDzu3JfvKkhIG22w6stbJv9p8lp1UWbgRGYgNXcFTpM=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KD+6VkzS2Hy/TSb5wwHPPpyrD0IjHVZ8GOk26fMvvJ0=
+			Ff60LojZ7dG3UTh1+yVL34wd/HbOgpvJpQDMNBUfKcA=
 			</data>
 		</dict>
 	</dict>

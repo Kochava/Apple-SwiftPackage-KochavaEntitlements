@@ -6,6 +6,6 @@ framework module KochavaEntitlements {
 }
 
 module KochavaEntitlements.Swift {
-    header "KochavaEntitlements-Swift.h"
-    requires objc
+  header "KochavaEntitlements-Swift.h"
+  requires objc
 }
