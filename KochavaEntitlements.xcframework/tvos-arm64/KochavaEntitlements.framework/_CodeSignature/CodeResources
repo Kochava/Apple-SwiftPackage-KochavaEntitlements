@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
-		CvPlOnFiTCgecIkXtizGuI3JqvM=
+		1kc9C3zFARilZgY3r1ebCx0U7mA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EPxL59pg/urdqT80eoOWEeM2kcY=
+		5zwr3AwiklxuyjChcht/sK1nt/c=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		GoGJ6F/DXcMJEkHTn3h0mGHg0rg=
+		QU6aepKjd7Z72gCFnb8+bodW8nE=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<data>
-		KYzNXlnMAzy2ebuefe0d6uznMzY=
+		d/sejRzgw/hTQqhM7Y0rjTBvIu0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,14 +54,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1S2WVVvIWzvLyN4/keesDlr1hv1AEyYmVPgSG3vwz4M=
+			rHPgvZmgylhz2lzQbb27tyZi4uVe3BmTeaI6JghS6r4=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mye4FXnZSeQOWRkrpe2NNRtoDpjgTD1N2imSnNm+Q7U=
+			QTgmL+g+vWSxAVVczx3xjyVCfZQvdUF1zqCPo6N72tg=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jfv0p3A2o2mOa3cmKQ0/wSHxBCgXfw0/io71SEkY4yQ=
+			4htlvrpgLlV86GOce6gPTVT9C7E+pHybYWmvjYOQDe0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

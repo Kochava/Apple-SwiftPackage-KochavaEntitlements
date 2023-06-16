@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
-		CvPlOnFiTCgecIkXtizGuI3JqvM=
+		1kc9C3zFARilZgY3r1ebCx0U7mA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KGJZNxDmMoxyCrNPf+uTEwmL3Ys=
+		vHvWnh8FIsZBCyG9DItMaxBh5Nc=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		GoGJ6F/DXcMJEkHTn3h0mGHg0rg=
+		QU6aepKjd7Z72gCFnb8+bodW8nE=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		4hFVhHmM4DTon7QkMXpgbwE+w40=
+		FwsWupad+LXG39NvVtQAXJg8UH4=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		GoGJ6F/DXcMJEkHTn3h0mGHg0rg=
+		QU6aepKjd7Z72gCFnb8+bodW8nE=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		DURbbS2uuP7kHhkuWenRUO4AS98=
+		p6IbsTpZIOETLzfCz+MamIVUrVk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,14 +74,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1S2WVVvIWzvLyN4/keesDlr1hv1AEyYmVPgSG3vwz4M=
+			rHPgvZmgylhz2lzQbb27tyZi4uVe3BmTeaI6JghS6r4=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mye4FXnZSeQOWRkrpe2NNRtoDpjgTD1N2imSnNm+Q7U=
+			QTgmL+g+vWSxAVVczx3xjyVCfZQvdUF1zqCPo6N72tg=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m+psIPsEf+CGqJZT+ZcAkbhIfEK1WhdGK6V4RgeMXQE=
+			V5uSKddnlp64Iua/tFt7m0gDL0nM+qelkhGIkal2Byo=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mye4FXnZSeQOWRkrpe2NNRtoDpjgTD1N2imSnNm+Q7U=
+			QTgmL+g+vWSxAVVczx3xjyVCfZQvdUF1zqCPo6N72tg=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YzwDxSc8+ynFxAzOogODlTALOpF1egIYASIEKn/nKnE=
+			b4gvizzel6C4pBMjyAYTizeCaJorpkpLL6AzIO+H1cM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

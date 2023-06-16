@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/KochavaEntitlements.h</key>
 		<data>
-		CvPlOnFiTCgecIkXtizGuI3JqvM=
+		1kc9C3zFARilZgY3r1ebCx0U7mA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M3jnn33X4P1lXrHms8EyRqr+NK0=
+		z11++dSm5x3TQoArhvmZfP8Prtg=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		T2doTLoTT6bPMj7VleucvfT1Lk8=
+		TeFY6lGC/2QD4TLJVmEM1knTRK4=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		Pr4FWTiqe8SW9z4K7km8wke4fCE=
+		JERZJ40vZrRK9wAygShoLoyIKjs=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
-		T2doTLoTT6bPMj7VleucvfT1Lk8=
+		TeFY6lGC/2QD4TLJVmEM1knTRK4=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		//6PfRMcLEJ0h9YfThHI/bHYzWk=
+		UJCSCNOJZZ5sQcJnzV4jBmf5oCY=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		T2doTLoTT6bPMj7VleucvfT1Lk8=
+		TeFY6lGC/2QD4TLJVmEM1knTRK4=
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		A1IPFBkRLvuOt1cDYQoehpLhg70=
+		DY/SNwCIQs2oLLchtSRSsTrMPuc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,22 +98,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CvPlOnFiTCgecIkXtizGuI3JqvM=
+			1kc9C3zFARilZgY3r1ebCx0U7mA=
 			</data>
 			<key>hash2</key>
 			<data>
-			1S2WVVvIWzvLyN4/keesDlr1hv1AEyYmVPgSG3vwz4M=
+			rHPgvZmgylhz2lzQbb27tyZi4uVe3BmTeaI6JghS6r4=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T2doTLoTT6bPMj7VleucvfT1Lk8=
+			TeFY6lGC/2QD4TLJVmEM1knTRK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yclYWn5SEad4hpjnEuBhsiy8vFz7h8Y2qwjjRJoKpFE=
+			loWcrlfB/0zX1BKkN5hj7EYl7bgJZjWldS/3bx4SXEA=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -153,22 +153,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr4FWTiqe8SW9z4K7km8wke4fCE=
+			JERZJ40vZrRK9wAygShoLoyIKjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			q/CdJk7TKJ83tMGyCeejlDFfmfjgaB426KIIp1vQL7c=
+			ttLClS/kKe7c4+u2339oCnMjhNyAcznnQQkaz/sVyjM=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T2doTLoTT6bPMj7VleucvfT1Lk8=
+			TeFY6lGC/2QD4TLJVmEM1knTRK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yclYWn5SEad4hpjnEuBhsiy8vFz7h8Y2qwjjRJoKpFE=
+			loWcrlfB/0zX1BKkN5hj7EYl7bgJZjWldS/3bx4SXEA=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
@@ -208,22 +208,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			//6PfRMcLEJ0h9YfThHI/bHYzWk=
+			UJCSCNOJZZ5sQcJnzV4jBmf5oCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			NlcF4bDm+MdiAYxTssrgt6qjX8acsxMjGMdx9bxn5Q0=
+			HpcmuNAnowAvUFg3gpWcTOAmy09R2aJOaKAffNyH/a4=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T2doTLoTT6bPMj7VleucvfT1Lk8=
+			TeFY6lGC/2QD4TLJVmEM1knTRK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yclYWn5SEad4hpjnEuBhsiy8vFz7h8Y2qwjjRJoKpFE=
+			loWcrlfB/0zX1BKkN5hj7EYl7bgJZjWldS/3bx4SXEA=
 			</data>
 		</dict>
 		<key>Modules/KochavaEntitlements.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A1IPFBkRLvuOt1cDYQoehpLhg70=
+			DY/SNwCIQs2oLLchtSRSsTrMPuc=
 			</data>
 			<key>hash2</key>
 			<data>
-			DCCivOdabAfy+aVh9YBGBspZF007l+lZlnjO2xH6m2M=
+			7COJF82wCw4BhxNHYS6iGQ8AHrQMMBtRmPt39s0r3lI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
