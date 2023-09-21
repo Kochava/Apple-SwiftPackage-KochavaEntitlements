@@ -4150,112 +4150,112 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 40615,
+      "offset": 40603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 43569,
+      "offset": 43557,
       "length": 22,
       "value": "\"Entitlements.adapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 43622,
+      "offset": 43610,
       "length": 14,
       "value": "\"entitlements\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 43715,
+      "offset": 43703,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 43793,
+      "offset": 43781,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 43826,
+      "offset": 43814,
       "length": 14,
       "value": "\"Entitlements\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 43885,
+      "offset": 43873,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "FloatLiteral",
-      "offset": 43930,
+      "offset": 43918,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 43982,
+      "offset": 43970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 44593,
+      "offset": 44581,
       "length": 36,
       "value": "\"KVAEntitlements.mutatorTokenString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 44883,
+      "offset": 44871,
       "length": 40,
       "value": "\"Entitlements.sharedInstanceBoolAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "StringLiteral",
-      "offset": 44954,
+      "offset": 44942,
       "length": 35,
       "value": "\"entitlements_shared_instance_bool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 45023,
+      "offset": 45011,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 50400,
+      "offset": 50388,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "BooleanLiteral",
-      "offset": 51683,
+      "offset": 51671,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlements.swift",
       "kind": "IntegerLiteral",
-      "offset": 52999,
+      "offset": 52987,
       "length": 1,
       "value": "0"
     },
@@ -4269,427 +4269,413 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 15412,
+      "offset": 15400,
       "length": 38,
       "value": "\"EntitlementsConfig.dictionaryAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 15481,
+      "offset": 15469,
       "length": 8,
       "value": "\"config\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 15572,
+      "offset": 15560,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 15599,
+      "offset": 15587,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 16133,
+      "offset": 16121,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17206,
+      "offset": 17194,
       "length": 16,
       "value": "\"baseIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17224,
+      "offset": 17212,
       "length": 21,
       "value": "\"BasicNetTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17259,
+      "offset": 17247,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17273,
+      "offset": 17261,
       "length": 34,
       "value": "\"EntitlementsConfigNetTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17321,
+      "offset": 17309,
       "length": 21,
       "value": "\"universalIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17344,
+      "offset": 17332,
       "length": 21,
       "value": "\"entitlements_config\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17379,
+      "offset": 17367,
       "length": 9,
       "value": "\"context\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17390,
+      "offset": 17378,
       "length": 20,
       "value": "\"serverUnrestricted\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17424,
+      "offset": 17412,
       "length": 33,
       "value": "\"prerequisiteTaskIdentifierArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "Array",
-      "offset": 17471,
+      "offset": 17459,
       "length": 15,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17500,
+      "offset": 17488,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17540,
+      "offset": 17528,
       "length": 18,
       "value": "\"httpMethodString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17560,
+      "offset": 17548,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17583,
+      "offset": 17571,
       "length": 33,
       "value": "\"privacyRedactionKeySuffixString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17618,
+      "offset": 17606,
       "length": 11,
       "value": "\" (config)\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17646,
+      "offset": 17634,
       "length": 11,
       "value": "\"retryBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 17659,
+      "offset": 17647,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17680,
-      "length": 18,
-      "value": "\"urlIdStringArray\""
-    },
-    {
-      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
-      "kind": "Array",
-      "offset": 17715,
-      "length": 59,
-      "value": "[\"entitlements_config\"]"
-    },
-    {
-      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 17791,
+      "offset": 17668,
       "length": 11,
       "value": "\"urlString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17804,
+      "offset": 17681,
       "length": 44,
       "value": "\"https:\/\/entitlements.kochava.com\/v1\/config\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17865,
+      "offset": 17742,
       "length": 22,
       "value": "\"bodyDictionaryFormat\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 17925,
+      "offset": 17802,
       "length": 28,
       "value": "\"dictionaryEntryFormatArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18028,
+      "offset": 17905,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18041,
+      "offset": 17918,
       "length": 5,
       "value": "\"ids\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18075,
+      "offset": 17952,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18100,
+      "offset": 17977,
       "length": 42,
       "value": "\"EntitlementsGeneral.idsDictionaryAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18171,
+      "offset": 18048,
       "length": 17,
       "value": "\"valueUpdateBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 18190,
+      "offset": 18067,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18273,
+      "offset": 18150,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18286,
+      "offset": 18163,
       "length": 5,
       "value": "\"pkg\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18320,
+      "offset": 18197,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18345,
+      "offset": 18222,
       "length": 61,
       "value": "\"EntitlementsDatapoints.appMainBundleIdentifierStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18485,
+      "offset": 18362,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18498,
+      "offset": 18375,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18537,
+      "offset": 18414,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18562,
+      "offset": 18439,
       "length": 50,
       "value": "\"EntitlementsDatapoints.platformNameStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18691,
+      "offset": 18568,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18704,
+      "offset": 18581,
       "length": 13,
       "value": "\"sdk_version\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18746,
+      "offset": 18623,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18771,
+      "offset": 18648,
       "length": 47,
       "value": "\"KochavaEntitlements.standardVersionInfoString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18909,
+      "offset": 18786,
       "length": 10,
       "value": "\"response\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18950,
+      "offset": 18827,
       "length": 18,
       "value": "\"localAllowedBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 18970,
+      "offset": 18847,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 18992,
+      "offset": 18869,
       "length": 17,
       "value": "\"bodyLocalObject\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "Dictionary",
-      "offset": 19026,
+      "offset": 18903,
       "length": 58,
       "value": "[(\"sdk_disabled\", true)]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 19112,
+      "offset": 18989,
       "length": 30,
       "value": "\"sendTaskLogMessagesPrintBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 19144,
+      "offset": 19021,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 19670,
+      "offset": 19547,
       "length": 33,
       "value": "\"EntitlementsConfig.retrieveTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 19734,
+      "offset": 19611,
       "length": 17,
       "value": "\"config_retrieve\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 20684,
+      "offset": 20561,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 21070,
+      "offset": 20947,
       "length": 39,
       "value": "\"EntitlementsConfig.tokenStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "StringLiteral",
-      "offset": 21140,
+      "offset": 21017,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 24502,
+      "offset": 24379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 24787,
+      "offset": 24664,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 26294,
+      "offset": 26171,
       "length": 5,
       "value": "false"
     },
@@ -4703,112 +4689,112 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 10272,
+      "offset": 10260,
       "length": 61,
       "value": "\"EntitlementsDatapoints.appMainBundleIdentifierStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 10364,
+      "offset": 10352,
       "length": 5,
       "value": "\"pkg\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "BooleanLiteral",
-      "offset": 10403,
+      "offset": 10391,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 10541,
+      "offset": 10529,
       "length": 20,
       "value": "\"CFBundleIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 10595,
+      "offset": 10583,
       "length": 17,
       "value": "\"_NOT_AVAILABLE_\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 10926,
+      "offset": 10914,
       "length": 43,
       "value": "\"EntitlementsDatapoints.currentDateAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 11000,
+      "offset": 10988,
       "length": 10,
       "value": "\"usertime\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "BooleanLiteral",
-      "offset": 11044,
+      "offset": 11032,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 12125,
+      "offset": 12113,
       "length": 47,
       "value": "\"EntitlementsDatapoints.osVersionStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 12203,
+      "offset": 12191,
       "length": 12,
       "value": "\"os_version\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "BooleanLiteral",
-      "offset": 12249,
+      "offset": 12237,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "BooleanLiteral",
-      "offset": 12274,
+      "offset": 12262,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 13250,
+      "offset": 13238,
       "length": 50,
       "value": "\"EntitlementsDatapoints.platformNameStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 13331,
+      "offset": 13319,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "StringLiteral",
-      "offset": 13434,
+      "offset": 13422,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsDatapoints.swift",
       "kind": "BooleanLiteral",
-      "offset": 15563,
+      "offset": 15551,
       "length": 4,
       "value": "true"
     },
@@ -4822,364 +4808,364 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 15934,
+      "offset": 15910,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 15948,
+      "offset": 15924,
       "length": 21,
       "value": "\"BasicNetTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 15983,
+      "offset": 15959,
       "length": 21,
       "value": "\"universalIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16006,
+      "offset": 15982,
       "length": 7,
       "value": "\"basic\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16027,
+      "offset": 16003,
       "length": 9,
       "value": "\"context\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16038,
+      "offset": 16014,
       "length": 8,
       "value": "\"server\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16060,
+      "offset": 16036,
       "length": 33,
       "value": "\"prerequisiteTaskIdentifierArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16125,
+      "offset": 16101,
       "length": 33,
       "value": "\"EntitlementsConfig.retrieveTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16526,
+      "offset": 16502,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16567,
+      "offset": 16543,
       "length": 24,
       "value": "\"headerDictionaryFormat\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16631,
+      "offset": 16607,
       "length": 28,
       "value": "\"dictionaryEntryFormatArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16737,
+      "offset": 16713,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16750,
+      "offset": 16726,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16788,
+      "offset": 16764,
       "length": 13,
       "value": "\"valueObject\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16803,
+      "offset": 16779,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16903,
+      "offset": 16879,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16916,
+      "offset": 16892,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16960,
+      "offset": 16936,
       "length": 13,
       "value": "\"valueObject\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 16975,
+      "offset": 16951,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17075,
+      "offset": 17051,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17088,
+      "offset": 17064,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17125,
+      "offset": 17101,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17150,
+      "offset": 17126,
       "length": 39,
       "value": "\"EntitlementsConfig.tokenStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17219,
+      "offset": 17195,
       "length": 17,
       "value": "\"valueUpdateBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 17238,
+      "offset": 17214,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17336,
+      "offset": 17312,
       "length": 10,
       "value": "\"response\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17378,
+      "offset": 17354,
       "length": 7,
       "value": "\"class\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17387,
+      "offset": 17363,
       "length": 14,
       "value": "\"NSDictionary\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17419,
+      "offset": 17395,
       "length": 17,
       "value": "\"bodyLocalObject\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "Array",
-      "offset": 17454,
+      "offset": 17430,
       "length": 19,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17491,
+      "offset": 17467,
       "length": 21,
       "value": "\"httpStatusCodeLocal\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "IntegerLiteral",
-      "offset": 17514,
+      "offset": 17490,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 17683,
+      "offset": 17659,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17690,
+      "offset": 17666,
       "length": 13,
       "value": "\"self is nil\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 17829,
+      "offset": 17805,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 17836,
+      "offset": 17812,
       "length": 22,
       "value": "\"lock did not succeed\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 18372,
+      "offset": 18348,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 18379,
+      "offset": 18355,
       "length": 23,
       "value": "\"reporting not enabled\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 18706,
+      "offset": 18682,
       "length": 42,
       "value": "\"EntitlementsGeneral.idsDictionaryAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 18779,
+      "offset": 18755,
       "length": 5,
       "value": "\"ids\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 19821,
+      "offset": 19797,
       "length": 50,
       "value": "\"EntitlementsGeneral.startSequenceDidCompleteTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 19902,
+      "offset": 19878,
       "length": 16,
       "value": "\"start_sequence\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 19983,
+      "offset": 19959,
       "length": 33,
       "value": "\"EntitlementsConfig.retrieveTask\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 20703,
+      "offset": 20679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 20785,
+      "offset": 20761,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 20823,
+      "offset": 20799,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "Dictionary",
-      "offset": 23606,
+      "offset": 23582,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 24391,
+      "offset": 24367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 24651,
+      "offset": 24627,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 24779,
+      "offset": 24755,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "BooleanLiteral",
-      "offset": 26389,
+      "offset": 26365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsGeneral.swift",
       "kind": "StringLiteral",
-      "offset": 26648,
+      "offset": 26624,
       "length": 46,
       "value": "\"EntitlementsGeneral.startSequenceDidComplete\""
     },
@@ -5193,14 +5179,14 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsLogging.swift",
       "kind": "BooleanLiteral",
-      "offset": 9930,
+      "offset": 9918,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsLogging.swift",
       "kind": "BooleanLiteral",
-      "offset": 10058,
+      "offset": 10046,
       "length": 5,
       "value": "false"
     },
@@ -5270,217 +5256,203 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11813,
+      "offset": 11801,
       "length": 16,
       "value": "\"baseIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11831,
+      "offset": 11819,
       "length": 21,
       "value": "\"BasicNetTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11866,
+      "offset": 11854,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11880,
+      "offset": 11868,
       "length": 23,
       "value": "\"ReceiptNetTransaction\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11917,
+      "offset": 11905,
       "length": 21,
       "value": "\"universalIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11940,
+      "offset": 11928,
       "length": 9,
       "value": "\"receipt\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11963,
+      "offset": 11951,
       "length": 13,
       "value": "\"persistBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 11978,
+      "offset": 11966,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 11996,
+      "offset": 11984,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12036,
+      "offset": 12024,
       "length": 18,
       "value": "\"httpMethodString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12056,
+      "offset": 12044,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12079,
+      "offset": 12067,
       "length": 11,
       "value": "\"retryBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 12092,
+      "offset": 12080,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12113,
+      "offset": 12101,
       "length": 21,
       "value": "\"urlDictionaryFormat\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12172,
+      "offset": 12160,
       "length": 28,
       "value": "\"dictionaryEntryFormatArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12275,
+      "offset": 12263,
       "length": 11,
       "value": "\"keyString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12288,
+      "offset": 12276,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12322,
+      "offset": 12310,
       "length": 23,
       "value": "\"valueSourceIdentifier\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12347,
+      "offset": 12335,
       "length": 67,
       "value": "\"EntitlementsReporting.receiptReportNetTransactionURLStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12443,
+      "offset": 12431,
       "length": 17,
       "value": "\"valueUpdateBool\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 12462,
+      "offset": 12450,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12546,
-      "length": 18,
-      "value": "\"urlIdStringArray\""
-    },
-    {
-      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
-      "kind": "Array",
-      "offset": 12581,
-      "length": 47,
-      "value": "[\"receipt\"]"
-    },
-    {
-      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
-      "kind": "StringLiteral",
-      "offset": 12645,
+      "offset": 12534,
       "length": 11,
       "value": "\"urlString\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12658,
+      "offset": 12547,
       "length": 7,
       "value": "\"{url}\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 12682,
+      "offset": 12571,
       "length": 22,
       "value": "\"bodyDictionaryFormat\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "Dictionary",
-      "offset": 12721,
+      "offset": 12610,
       "length": 1124,
       "value": "[(\"dictionaryEntryFormatArray\", [[(\"keyString\", \"ids\"), (\"valueSourceIdentifier\", \"EntitlementsGeneral.idsDictionaryAdapter\")], [(\"keyString\", \"pkg\"), (\"valueSourceIdentifier\", \"EntitlementsDatapoints.appMainBundleIdentifierStringAdapter\")], [(\"keyString\", \"platform\"), (\"valueSourceIdentifier\", \"EntitlementsDatapoints.platformNameStringAdapter\")], [(\"keyString\", \"sdk_version\"), (\"valueSourceIdentifier\", \"KochavaEntitlements.standardVersionInfoString\")], [(\"keyString\", \"usertime\"), (\"valueSourceIdentifier\", \"EntitlementsDatapoints.currentDateAdapter\")]])]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "StringLiteral",
-      "offset": 14217,
+      "offset": 14106,
       "length": 67,
       "value": "\"EntitlementsReporting.receiptReportNetTransactionURLStringAdapter\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 14336,
+      "offset": 14225,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 16997,
+      "offset": 16886,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsReporting.swift",
       "kind": "BooleanLiteral",
-      "offset": 18566,
+      "offset": 18455,
       "length": 5,
       "value": "false"
     },
@@ -5494,28 +5466,28 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsSessions.swift",
       "kind": "BooleanLiteral",
-      "offset": 14561,
+      "offset": 14549,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsSessions.swift",
       "kind": "BooleanLiteral",
-      "offset": 14747,
+      "offset": 14735,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsSessions.swift",
       "kind": "BooleanLiteral",
-      "offset": 14888,
+      "offset": 14876,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaEntitlements\/KochavaEntitlements\/ClassFiles\/KVAEntitlementsSessions.swift",
       "kind": "BooleanLiteral",
-      "offset": 15135,
+      "offset": 15123,
       "length": 5,
       "value": "false"
     },
